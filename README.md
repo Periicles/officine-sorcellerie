@@ -4,7 +4,7 @@ Petit kata Java/Maven pour gérer une officine qui stocke des ingrédients et pr
 
 ## Architecture
 
-- `pom.xml` : config Maven (Java 17, JUnit 5), sources dans `src`, tests dans `test`.
+- `pom.xml` : config Maven (Java 21, JUnit 5), sources dans `src`, tests dans `test`.
 - `src/Main.java` : point d'entrée console minimal.
 - `src/Officine.java` : gestion des stocks et préparation.
 - `src/Catalogue.java` : alias, normalisation, recettes, parsing des quantités.

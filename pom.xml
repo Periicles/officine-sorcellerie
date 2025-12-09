@@ -7,8 +7,7 @@
   <name>Officine Sorcellerie</name>
   <description>Test d'une officine de sorcellerie en Java</description>
   <properties>
-    <maven.compiler.source>17</maven.compiler.source>
-    <maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.release>21</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>5.10.1</junit.version>
   </properties>
